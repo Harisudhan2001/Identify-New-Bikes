@@ -87,10 +87,10 @@ public class Login extends BaseClass{
 		FileUtils.copyFile(src,trg);
 	}
 	
-//	public String errorMsg()
-//	{
-//		return errorMsg;
-//	}
+	public String errorMsg()
+	{
+		return errorMsg;
+	}
 
 	
 	
